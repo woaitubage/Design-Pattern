@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "observer pattern", "observer pattern\observer pattern.vcxproj", "{758A058C-880D-49B8-8A65-17AFE3A6A299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758A058C-880D-49B8-8A65-17AFE3A6A299}.Debug|Win32.ActiveCfg = Debug|Win32
+		{758A058C-880D-49B8-8A65-17AFE3A6A299}.Debug|Win32.Build.0 = Debug|Win32
+		{758A058C-880D-49B8-8A65-17AFE3A6A299}.Release|Win32.ActiveCfg = Release|Win32
+		{758A058C-880D-49B8-8A65-17AFE3A6A299}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
